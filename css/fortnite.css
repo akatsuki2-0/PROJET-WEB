@@ -27,17 +27,22 @@ p{
 	margin-top: 30px;
 	margin-right: 100px;
 	margin-left: 100px;
-	display: block; border: 1px solid black;
-	border-radius: 10px;
-	padding: 20px;
+	
 }
 .vocabulaire{
-	text-align: center;
-	position: absolute;
+	text-align: right;
 	right: 0px;
-	top: 840px;
-	margin-right: 0px;
+	margin-right: 310px;
+	margin-top: -350px;
 }
 .vocabulaire p{
 	text-align: center;
+	margin-right: -200px;
+}
+.vocabulaire h1{
+	display: block; border: 1px solid black;
+	border-radius: 10px;
+	padding: 20px;
+	margin-left: 300px;
+	margin-bottom: -20px;
 }

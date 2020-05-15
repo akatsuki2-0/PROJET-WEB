@@ -1,0 +1,26 @@
+header {
+    text-align: center;
+    background-color: rgba(66, 66, 66, 0.726);
+}
+
+body {
+    color:white;
+    background-image: url(../image/csgo_4.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+    color: red;
+}
+
+h3 {
+    color: royalblue;
+}
+
+p {
+    text-align: center;
+}

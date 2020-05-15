@@ -4,6 +4,7 @@ body {
     padding: 10px;
     background-image: url(image/2_background.jpg);
     background-size: 100%;
+    text-align: center;
 }
 
 nav {
@@ -13,10 +14,6 @@ nav {
     top: 0px;
 }
 
-nav ul {
-    list-style-type: none;
-}
-
 nav ul li {
     float: left;
     width: 25%;
@@ -24,35 +21,12 @@ nav ul li {
     position: relative;
 }
 
-a {
-    color: black;
-    display: block;
-    text-decoration: none;
-    padding: 10px;
-    border: 1px solid black;
-}
-
-span {
-    color: black;
-    display: block;
-    text-decoration: none;
-    padding: 10px;
-    border: 1px solid black;
-}
-
-h1 {
-    text-align: center;
-    margin: 60px;
-    border: 1px solid black;
-}
-
 nav ul {
 	margin: 0;
 	padding: 0;
-	list-style: none;
-}
-nav > ul {
-	display: flex;
+    list-style: none;
+    list-style-type: none;
+    display: flex;
 }
 nav > ul ul {
 	display: none;
@@ -69,11 +43,34 @@ nav > ul > li:hover > ul {
     width: 100%;
 }
 
-a:hover{
-    background-color:  rgba(255, 255,255,0.2) ;
+span {
     color: black;
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid black;
 }
+
+h1 {
+    text-align: center;
+    margin: 60px;
+    border: 1px solid black;
+}
+
 h2 {
     text-align: center;
     margin-top:200px ;
+}
+
+a {
+    color: black;
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+a:hover{
+    background-color:  rgba(255, 255,255,0.2) ;
+    color: black;
 }

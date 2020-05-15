@@ -1,0 +1,74 @@
+body{
+	font-family: Impact, Charcoal, sans-serif;
+	background-image: url("../../Projet Web/Handball/backround handball.jpg");
+	background-repeat: no-repeat;
+	background-size: 300%
+}
+
+h2{
+	font-size: 30px;
+	color: red;
+}
+
+p{
+	color: black;
+}
+
+.Accueil h1{
+	text-align: center;
+	color: black;	
+}
+.Accueil img{
+	display: block; margin: auto;
+}
+
+.origines h2{
+	margin-left: 120px;
+}
+
+
+.regles h2{
+	text-align: right;
+	margin-top: -600px;
+	margin-right: 470px;
+}
+.regles h3{
+	color: red;
+	font-size: 20px;
+	text-align: right;
+	margin-right: 540px;
+}
+.regles p{
+	position: relative;
+	text-align: left;
+	margin-left: 720px;
+}
+.image1 {
+	margin-left: 120px;
+	margin-top: -460px;
+	opacity: 0.13;
+	position: absolute;
+}
+.image2{
+	margin-left: 780px;
+	margin-top: -380px;
+	opacity: 0.15;
+	position: relative;
+}
+
+.autre p{
+	position: relative;
+	text-align: left;
+	margin-left: 720px;
+	margin-top: -360px;
+
+}
+.vocabulaire h2{
+	text-align: left;
+	margin-left: 500px;
+	margin-bottom: 150px;
+	margin-top: 80px;
+}
+.vocabulaire p{
+	margin-top: -80px;
+}

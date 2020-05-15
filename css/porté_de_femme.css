@@ -1,0 +1,32 @@
+body{max-width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url("../image/background_porter_de_femme.jpg");
+}
+
+a{color: black;}
+a:link{text-decoration:none;}
+a:hover{text-decoration: underline;  color: rgb(0, 0, 255)}
+
+h1{text-align: center;}
+
+img{width: 60%; 
+	display: block;
+	margin-right: auto;
+	margin-left: auto;}
+
+.fond{display:flex;
+	  width: auto;}
+
+.fon2{background-color: rgba(255,255,255,0.5);}
+
+.para1{width: 600%;
+	padding-left: 15px;}
+
+.para2{margin-left: 5%;
+	padding-right: 15px;}
+
+.porter{display: block;
+		background-color: rgba(255,255,255,0.5);}
+
+.img2{padding-bottom: 20px;}
